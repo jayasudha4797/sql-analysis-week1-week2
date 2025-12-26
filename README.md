@@ -47,7 +47,7 @@ sql-learning/
           Business problem-based SQL queries
 
 ▶️ How to Use This Repository
-                  Clone the repository: git clone https://github.com/USERNAME/sql-learning.git
+                  Clone the repository: git clone https://github.com/jayasudha4797/sql-learning.git
                                         Open the .sql files in MySQL Workbench
                                         Run queries on the sample database
                                         Modify queries to practice further
