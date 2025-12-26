@@ -11,12 +11,9 @@
 
 📂 Project Structure:
 sql-learning/
-│
-├── sql/
-│   ├── week_1.sql     # Basic SQL queries
-│   ├── week_2.sql     # Intermediate SQL queries
-│
-└── README.md
+ sql-----week_1.sql     # Basic SQL queries
+         week_2.sql     # Intermediate SQL queries
+         README.md
 
 📘 Topics Covered:
         ✅ Week 1 – SQL Basics:
